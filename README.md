@@ -1,5 +1,7 @@
 # Medical-Data-Visualizer
 
+Note: This project was created in 2023 on Replit and has been moved to GitHub in 2025 for convenience
+
 The Medical Data Visualizer project involves cleaning and analyzing a medical dataset to uncover trends and insights related to the health of a population. 
 
 In this project, I  visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
