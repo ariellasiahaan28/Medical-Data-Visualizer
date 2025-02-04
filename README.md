@@ -34,10 +34,10 @@ By each number in the medical_data_visualizer.py file, add the code from the ass
 - Do not modify the next two lines.
 
 # Development
-Code is written in sea_level_predictor.py. For development, and main.py to test your code.
+For development, code is written in medical_data_visualizer.py and main.py to test your code.
 
 # Testing
-The unit tests for this project are in test_module.py. I imported the tests from test_module.py to main.py for your convenience.
+The unit tests for this project are in test_module.py. I imported the tests from test_module.py to main.py for convenience.
 
 
 
